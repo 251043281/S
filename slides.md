@@ -89,3 +89,49 @@ The work done $W$ is positive when the system expands against an external pressu
 </iframe>
 :::
 ::::
+
+# Machine 1 Capability
+
+::: columns
+::: {.column width="40%"}
+### Analysis
+- **Pressure**: 200kPa
+- **Temperature**: 338K
+- **Assessment**: Evaluation of Machine 1's ability to maintain Part Length within [45, 55].
+- Cp and Cpk values provide a measure of precision and centering.
+:::
+
+::: {.column width="60%"}
+<iframe data-src='media/plots/m1_capability.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+:::
+
+# Machine 2 Capability
+
+::: columns
+::: {.column width="40%"}
+### Analysis
+- **Pressure**: 200kPa
+- **Temperature**: 338K
+- **Assessment**: Statistical control check for Machine 2 under high stress conditions.
+:::
+
+::: {.column width="60%"}
+<iframe data-src='media/plots/m2_capability.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+:::
+
+# Machine 3 Capability
+
+::: columns
+::: {.column width="40%"}
+### Analysis
+- **Pressure**: 200kPa
+- **Temperature**: 338K
+- **Assessment**: Final machine capability comparison.
+:::
+
+::: {.column width="60%"}
+<iframe data-src='media/plots/m3_capability.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+:::
