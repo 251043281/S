@@ -175,6 +175,49 @@ The work done $W$ is positive when the system expands against an external pressu
 :::
 :::
 
+# Machine 1 Capability Analysis
+
+::: columns
+::: {.column width="40%"}
+### Process Assessment
+- **Target**: 50.0000
+- **Limits**: [45.0000, 55.0000]
+- **Result**: Machine 1 demonstrates high precision but is slightly offset from the target mean.
+:::
+
+::: {.column width="60%"}
+![](media/plots/m1_capability.png)
+:::
+:::
+
+# Machine 2 Capability Analysis
+
+::: columns
+::: {.column width="40%"}
+### Process Assessment
+- **Status**: Marginal Capability
+- **Observation**: Wider distribution compared to Machine 1, indicating higher variability under these conditions.
+:::
+
+::: {.column width="60%"}
+![](media/plots/m2_capability.png)
+:::
+:::
+
+# Machine 3 Capability Analysis
+
+::: columns
+::: {.column width="40%"}
+### Process Assessment
+- **Status**: Excellent
+- **Observation**: Best combination of centering and narrow spread among the three machines.
+:::
+
+::: {.column width="60%"}
+![](media/plots/m3_capability.png)
+:::
+:::
+
 ---
 # Bibliography
 <div id="refs"></div>
