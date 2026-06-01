@@ -407,6 +407,102 @@ Machine 3 is the top performer with the best centering.
 :::
 :::
 
+# Machine 1 Assessment
+
+::: columns
+::: {.column width="30%" style="display: flex; flex-direction: column; justify-content: center;"}
+### Capability Indices
+- **$C_p$**: 2.6530
+- **$C_{pk}$**: 2.0680
+
+Machine 1 is highly precise but slightly off-center ($51.1$).
+:::
+
+::: {.column width="70%"}
+![](media/plots/m1_capability.png){width=100%}
+:::
+:::
+
+# Machine 2 Assessment
+
+::: columns
+::: {.column width="30%" style="display: flex; flex-direction: column; justify-content: center;"}
+### Capability Indices
+- **$C_p$**: 1.2530
+- **$C_{pk}$**: 1.0530
+
+Machine 2 shows higher variability and is near the limit.
+:::
+
+::: {.column width="70%"}
+![](media/plots/m2_capability.png){width=100%}
+:::
+:::
+
+# Machine 3 Assessment
+
+::: columns
+::: {.column width="30%" style="display: flex; flex-direction: column; justify-content: center;"}
+### Capability Indices
+- **$C_p$**: 2.3830
+- **$C_{pk}$**: 2.1320
+
+Machine 3 is the top performer with the best centering.
+:::
+
+::: {.column width="70%"}
+![](media/plots/m3_capability.png){width=100%}
+:::
+:::
+
+# Machine 1: Process Capability (Slide 9)
+
+::: columns
+::: {.column width="40%" style="display: flex; flex-direction: column; justify-content: center;"}
+### Capability Indices
+- **$C_p$**: 2.6530
+- **$C_{pk}$**: 2.0680
+
+**Assessment**: Highly capable but slightly off-center (Mean = 51.1000).
+:::
+
+::: {.column width="60%"}
+![](media/plots/m1_capability.png){width=100%}
+:::
+:::
+
+# Machine 2: Process Capability (Slide 10)
+
+::: columns
+::: {.column width="40%" style="display: flex; flex-direction: column; justify-content: center;"}
+### Capability Indices
+- **$C_p$**: 1.2530
+- **$C_{pk}$**: 1.0530
+
+**Assessment**: Marginal capability; high variability increases risk of USL violations.
+:::
+
+::: {.column width="60%"}
+![](media/plots/m2_capability.png){width=100%}
+:::
+:::
+
+# Machine 3: Process Capability (Slide 11)
+
+::: columns
+::: {.column width="40%" style="display: flex; flex-direction: column; justify-content: center;"}
+### Capability Indices
+- **$C_p$**: 2.3830
+- **$C_{pk}$**: 2.1320
+
+**Assessment**: Excellent performer with the best centering on the target.
+:::
+
+::: {.column width="60%"}
+![](media/plots/m3_capability.png){width=100%}
+:::
+:::
+
 ---
 # Bibliography
 <div id="refs"></div>
