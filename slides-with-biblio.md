@@ -310,6 +310,55 @@ Observation: Best combination of centering and narrow spread.
 :::
 :::
 
+# Machine 1 Capability Analysis
+
+::: columns
+::: {.column width="40%" style="display: flex; flex-direction: column; justify-content: center; text-align: center;"}
+### Process Assessment
+
+**Target**: 50.0000  
+**Limits**: [45.0000, 55.0000]
+
+Machine 1 demonstrates high precision but is slightly offset from the target mean.
+:::
+
+::: {.column width="60%" style="display: flex; align-items: center; justify-content: center;"}
+![](media/plots/m1_capability.png){width=95%}
+:::
+:::
+
+# Machine 2 Capability Analysis
+
+::: columns
+::: {.column width="40%" style="display: flex; flex-direction: column; justify-content: center; text-align: center;"}
+### Process Assessment
+
+**Status**: Marginal Capability
+
+Observation: Higher variability noted under these specific conditions.
+:::
+
+::: {.column width="60%" style="display: flex; align-items: center; justify-content: center;"}
+![](media/plots/m2_capability.png){width=95%}
+:::
+:::
+
+# Machine 3 Capability Analysis
+
+::: columns
+::: {.column width="40%" style="display: flex; flex-direction: column; justify-content: center; text-align: center;"}
+### Process Assessment
+
+**Status**: Excellent
+
+Observation: Best combination of centering and narrow spread.
+:::
+
+::: {.column width="60%" style="display: flex; align-items: center; justify-content: center;"}
+![](media/plots/m3_capability.png){width=95%}
+:::
+:::
+
 ---
 # Bibliography
 <div id="refs"></div>
